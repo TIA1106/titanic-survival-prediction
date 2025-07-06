@@ -29,3 +29,8 @@ This is a machine learning web app built using Streamlit. It predicts whether a 
 ```bash
 git clone https://github.com/TIA1106/titanic-survival-prediction.git
 cd titanic-survival-prediction
+
+
+## 📸 App Preview
+
+![App Screenshot](screenshot.png)
