@@ -50,4 +50,4 @@ GridSearchCV is key to tuning a model
 
 Data science is actually fun!
 
-Built by Tia Sukhnanni | Guided by ChatGPT 🤖
+Built by Tia Sukhnanni | Guided by Internet
